@@ -1,2 +1,2 @@
-Sitemap: http://tomnervegnareed.com/sitemap_location.xml
-http://www.google.com/ping?sitemap=http://tomnervegnareed.com/sitemap_location.xml
+Sitemap: http://yusizang.com/sitemap_location.xml
+http://www.google.com/ping?sitemap=http://yusizang.com/sitemap_location.xml
