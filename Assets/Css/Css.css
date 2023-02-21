@@ -157,13 +157,13 @@ p {
 
 /* Navbar Links */
 .class5	{
-	 color: #D6D6D6;
+	 color: #000000;
 }
 .class5:link {text-decoration: none; color: #000000;}
 .class5:visited {text-decoration: none; color: #000000;}
-.class5:hover {text-decoration: none; color: #000; transition: 0.2s; background-color: transparent;}
+.class5:hover {text-decoration: none; color: #000000; transition: 0.2s; background-color: transparent;}
 .class5:active {text-decoration: none; color: #000000;}
-.class5:focus {text-decoration: none; color: #000; transition: 0.2s; cursor: pointer;}
+.class5:focus {text-decoration: none; color: #000000; transition: 0.2s; cursor: pointer;}
 
 
 
