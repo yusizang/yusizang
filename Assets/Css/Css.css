@@ -30,7 +30,7 @@ li {
   font-family: 'Padauk', sans-serif;
 	font-size: calc( 18px + (36 - 18) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0 rem;
-    font-weight: 500;
+    font-weight: 300;
     color: #ffffff;
     float: left;    
 
@@ -47,7 +47,7 @@ p {
 ::selection {
   background: #7b7b7b;
   color: white;
-  text-shadow: 0.01vw 0.01vw 0.4vw #ffffff, 0.01vw 0.01vw 0.01vw #ffffff;
+ 
 }
 
 .heading { 
@@ -64,7 +64,7 @@ p {
     font-family: 'Padauk', sans-serif;
     font-size: 0.5rem;
     letter-spacing: 0.08rem;
-    font-weight: 200;
+    font-weight: 300;
     padding: 0;
 	padding-top: 15px;
 	padding-bottom: 40px;
@@ -102,7 +102,7 @@ p {
     font-family: 'Padauk', sans-serif;
 		font-size: calc( 18px + (22 - 18) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0 rem;
-    font-weight: 500;
+    font-weight: 300;
     color: #D6D6D6;
     float: left;
     padding-bottom: 4vh; 
@@ -138,7 +138,7 @@ p {
 .class3 {color: #D6D6D6; 
 		font-family: 'Padauk', sans-serif;
 		font-size: 0.7rem;
-		font-weight: 500;
+		font-weight: 300;
 		}
 .class3:link  {text-decoration: none; color: #D6D6D6;}
 .class3:visited {text-decoration: none; color: #D6D6D6;}
@@ -161,9 +161,9 @@ p {
 }
 .class5:link {text-decoration: none; color: #ffffff;}
 .class5:visited {text-decoration: none; color: #ffffff;}
-.class5:hover {text-decoration: none; color: #000; transition: 0.2s; background-color: transparent; text-shadow: 1px 1px 3px #b8b8b8, 1px 1px 6px #b8b8b8;}
+.class5:hover {text-decoration: none; color: #000; transition: 0.2s; background-color: transparent;}
 .class5:active {text-decoration: none; color: #ffffff;}
-.class5:focus {text-decoration: none; color: #000; transition: 0.2s; cursor: pointer;  text-shadow: 1px 1px 3px #b8b8b8, 0.01vw 0.01vw 0.8vw #b8b8b8;}
+.class5:focus {text-decoration: none; color: #000; transition: 0.2s; cursor: pointer;}
 
 
 
@@ -200,7 +200,7 @@ p {
    }
 .class7:link {text-decoration: none; color: #ffffff;}
 .class7:visited {text-decoration: none; color: #ffffff;}
-.class7:hover {text-decoration: none; color: #000; transition: 0.2s; background-color: transparent; text-shadow:  1px 1px 3px #b8b8b8, 1px 1px 3px #a4a4ff;}
+.class7:hover {text-decoration: none; color: #000; transition: 0.2s; background-color: transparent;}
 .class7:active {text-decoration: none; color: #ffffff;}
 
 /* Inquries text */
@@ -332,10 +332,10 @@ padding-bottom: 40px;
 /* scrollbar */
 html {
     overflow: scroll;
-    overflow-x: hidden;
+    overflow-x: show;
 }
 ::-webkit-scrollbar {
-    width: 0px;  /* remove scrollbar space */
+    width: 2px;  /* remove scrollbar space */
     background: transparent;  /* optional: just make scrollbar invisible */
 }
 
