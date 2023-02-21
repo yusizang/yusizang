@@ -173,9 +173,9 @@ p {
 /* info text */
 .class6 {
 		font-family: 'Padauk', sans-serif;
-		font-size: calc( 18px + (22 - 18) * (100vw - 450px) / (1000 - 450) );
+		font-size: calc( 12px + (22 - 18) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0 rem;
-    font-weight: 500;
+    font-weight: 200;
     color: #D6D6D6;
     float: left;
     padding-bottom: 0vh; 
@@ -189,12 +189,11 @@ p {
 /* info links */
 .class7 {
 		font-family: 'Padauk', sans-serif;
-		font-size: calc( 18px + (26 - 18) * (100vw - 450px) / (1000 - 450) );
+		font-size: calc( 12px + (26 - 18) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0.1rem;
-    font-weight: 500;
+    font-weight: 200;
     color: #ffffff;
    float: left;
-     text-shadow: 1px 1px 3px #b8b8b8;
      padding-bottom: 2vh;
      padding-right: 0px;
     
