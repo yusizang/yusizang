@@ -30,7 +30,7 @@ li {
   font-family: 'Padauk', sans-serif;
 	font-size: calc( 12px + (13.5 - 12) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0 rem;
-    font-weight: 300;
+    font-weight: 500;
     color: #000000;
     float: left;    
 
@@ -54,9 +54,9 @@ p {
     font-family: 'Padauk', sans-serif;
 	font-size: calc( 12px + (13.5 - 12) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0.1rem;
-    font-weight: 200;
+    font-weight: 500;
     color: #000000;
-    float: right;
+    float: center;
     
 }
 
@@ -175,7 +175,7 @@ p {
 		font-family: 'Padauk', sans-serif;
 		font-size: calc( 12px + (13.5 - 12) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0 rem;
-    font-weight: 200;
+    font-weight: 500;
     color: #D6D6D6;
     float: left;
     padding-bottom: 0vh; 
@@ -191,7 +191,7 @@ p {
 		font-family: 'Padauk', sans-serif;
 		font-size: calc( 12px + (13.5 - 12) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0.1rem;
-    font-weight: 200;
+    font-weight: 500;
     color: #000000;
    float: left;
      padding-bottom: 2vh;
