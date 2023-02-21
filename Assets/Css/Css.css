@@ -142,7 +142,7 @@ p {
 		}
 .class3:link  {text-decoration: none; color: #D6D6D6;}
 .class3:visited {text-decoration: none; color: #D6D6D6;}
-.class3:hover {text-decoration: none; color: #000; transition: 0.2s; cursor: pointer;}
+.class3:hover {text-decoration: none; color: #ff1100; transition: 0.2s; cursor: pointer;}
 .class3:active {text-decoration: none; color: #D6D6D6;}
 
 
@@ -161,7 +161,7 @@ p {
 }
 .class5:link {text-decoration: none; color: #000000;}
 .class5:visited {text-decoration: none; color: #000000;}
-.class5:hover {text-decoration: none; color: #000000; transition: 0.2s; background-color: transparent;}
+.class5:hover {text-decoration: none; color: #ff1100; transition: 0.2s; background-color: transparent;}
 .class5:active {text-decoration: none; color: #000000;}
 .class5:focus {text-decoration: none; color: #000000; transition: 0.2s; cursor: pointer;}
 
@@ -200,7 +200,7 @@ p {
    }
 .class7:link {text-decoration: none; color: #000000;}
 .class7:visited {text-decoration: none; color: #000000;}
-.class7:hover {text-decoration: none; color: #000; transition: 0.2s; background-color: transparent;}
+.class7:hover {text-decoration: none; color: #ff1100; transition: 0.2s; background-color: transparent;}
 .class7:active {text-decoration: none; color: #000000;}
 
 /* Inquries text */
