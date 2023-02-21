@@ -31,7 +31,7 @@ li {
 	font-size: calc( 18px + (36 - 18) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0 rem;
     font-weight: 300;
-    color: #ffffff;
+    color: #000000;
     float: left;    
 
 }
@@ -55,7 +55,7 @@ p {
 	font-size: calc( 18px + (36 - 18) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0.1rem;
     font-weight: 200;
-    color: #ffffff;
+    color: #000000;
     float: right;
     
 }
@@ -159,10 +159,10 @@ p {
 .class5	{
 	 color: #D6D6D6;
 }
-.class5:link {text-decoration: none; color: #ffffff;}
-.class5:visited {text-decoration: none; color: #ffffff;}
+.class5:link {text-decoration: none; color: #000000;}
+.class5:visited {text-decoration: none; color: #000000;}
 .class5:hover {text-decoration: none; color: #000; transition: 0.2s; background-color: transparent;}
-.class5:active {text-decoration: none; color: #ffffff;}
+.class5:active {text-decoration: none; color: #000000;}
 .class5:focus {text-decoration: none; color: #000; transition: 0.2s; cursor: pointer;}
 
 
@@ -192,16 +192,16 @@ p {
 		font-size: calc( 12px + (26 - 18) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0.1rem;
     font-weight: 200;
-    color: #ffffff;
+    color: #000000;
    float: left;
      padding-bottom: 2vh;
      padding-right: 0px;
     
    }
-.class7:link {text-decoration: none; color: #ffffff;}
-.class7:visited {text-decoration: none; color: #ffffff;}
+.class7:link {text-decoration: none; color: #000000;}
+.class7:visited {text-decoration: none; color: #000000;}
 .class7:hover {text-decoration: none; color: #000; transition: 0.2s; background-color: transparent;}
-.class7:active {text-decoration: none; color: #ffffff;}
+.class7:active {text-decoration: none; color: #000000;}
 
 /* Inquries text */
 .class8 {
