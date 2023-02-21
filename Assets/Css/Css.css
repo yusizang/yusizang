@@ -53,12 +53,12 @@ p {
 
 .heading { 
     font-family: 'Padauk', sans-serif;
-	font-size: calc( 18px + (36 - 18) * (100vw - 450px) / (1000 - 450) );
+	font-size: calc( 12px + (36 - 18) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0.1rem;
-    font-weight: 500;
+    font-weight: 200;
     color: #ffffff;
     float: right;
-    text-shadow: 1px 1px 3px #b8b8b8;
+    
 }
 
 .title { 
