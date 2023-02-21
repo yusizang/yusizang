@@ -28,7 +28,7 @@ li {
   display: inline;
   float: left;
   font-family: 'Padauk', sans-serif;
-	font-size: calc( 18px + (36 - 18) * (100vw - 450px) / (1000 - 450) );
+	font-size: calc( 12px + (13.5 - 12) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0 rem;
     font-weight: 300;
     color: #000000;
@@ -52,7 +52,7 @@ p {
 
 .heading { 
     font-family: 'Padauk', sans-serif;
-	font-size: calc( 18px + (36 - 18) * (100vw - 450px) / (1000 - 450) );
+	font-size: calc( 12px + (13.5 - 12) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0.1rem;
     font-weight: 200;
     color: #000000;
@@ -100,7 +100,7 @@ p {
 .Textindent {
     text-indent: 50px;
     font-family: 'Padauk', sans-serif;
-		font-size: calc( 18px + (22 - 18) * (100vw - 450px) / (1000 - 450) );
+		font-size: calc( 12px + (13.5 - 12) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0 rem;
     font-weight: 300;
     color: #D6D6D6;
@@ -173,7 +173,7 @@ p {
 /* info text */
 .class6 {
 		font-family: 'Padauk', sans-serif;
-		font-size: calc( 12px + (22 - 18) * (100vw - 450px) / (1000 - 450) );
+		font-size: calc( 12px + (13.5 - 12) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0 rem;
     font-weight: 200;
     color: #D6D6D6;
@@ -189,7 +189,7 @@ p {
 /* info links */
 .class7 {
 		font-family: 'Padauk', sans-serif;
-		font-size: calc( 12px + (26 - 18) * (100vw - 450px) / (1000 - 450) );
+		font-size: calc( 12px + (13.5 - 12) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0.1rem;
     font-weight: 200;
     color: #000000;
@@ -206,7 +206,7 @@ p {
 /* Inquries text */
 .class8 {
 		font-family: 'Padauk', sans-serif;
-		font-size: calc( 12.5px + (13.5 - 12.5) * (100vw - 450px) / (1000 - 450) );
+		font-size: calc( 12px + (13.5 - 12) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0 rem;
     font-weight: 500;
     color: #e4e4e4;
